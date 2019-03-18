@@ -1,1 +1,1 @@
-print("this is script 2")
+print("this looks a bit different than script 2")
